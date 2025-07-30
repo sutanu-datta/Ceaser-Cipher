@@ -30,5 +30,5 @@ The Caesar Cipher is one of the earliest known encryption techniques. It works b
 
 1. **Clone the repository or download the script**
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher-python.git
-   cd caesar-cipher-python
+   git clone https://github.com/sutanu-datta/Ceaser-Cipher.git
+   cd caesar-cipher
